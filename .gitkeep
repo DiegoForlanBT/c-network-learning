@@ -1,0 +1,1 @@
+  /r C:\Users\baris\Desktop\c-network-learning\. in (.) do @if not "C:\Users\baris\Desktop\c-network-learning\."==".\" if exist "C:\Users\baris\Desktop\c-network-learning\.\." echo. 
