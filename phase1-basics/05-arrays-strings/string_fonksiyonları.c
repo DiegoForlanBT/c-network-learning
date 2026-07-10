@@ -12,11 +12,11 @@ int main(){
     strcpy(s1 , s2);
     printf("Kopyalandı : %s" , s1);
 
-    // karşılaştırma
+    // karşılaştırma - string compare : string karşılaştırma
     int sonuc = strcmp("abc" , "abc");
     printf("eşit mi ? : %d\n" , sonuc); // 0 : eşit
 
-    // Birleştirme
+    // Birleştirme string catenate : string birleştirme
     char tam[40] = "Merhaba";
     strcat(tam," Dünya");
     printf("Birleştirme : %s" , tam);
